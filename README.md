@@ -12,7 +12,6 @@
 ## This is My Career 💜
 
 - 👩🏻‍🎓**Bachelor** of Engineering in Medical Engineering
-- 🏫at Konyang University
 - 👩🏻‍💻Now : ![SSAFY](https://img.shields.io/badge/✨-SSAFY%207th-blue)
 
 ## 💪🏻 Skills
